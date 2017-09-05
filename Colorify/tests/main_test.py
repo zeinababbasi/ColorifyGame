@@ -5,9 +5,9 @@ from __future__ import unicode_literals
 import random
 import string
 import unittest
-from Colorify.main import m, n
-from Colorify.src.Board import Board
-from Colorify.src.Player import Player
+from main import m, n
+from src.Board import Board
+from src.Player import Player
 
 
 __author__ = "Zeinab Abbasimazar -> https://github.com/zeinababbasi"

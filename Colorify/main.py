@@ -3,8 +3,8 @@
 
 from __future__ import unicode_literals
 import sys
-from Colorify.src.Board import Board
-from Colorify.src.Player import Player
+from src.Board import Board
+from src.Player import Player
 
 
 __author__ = "Zeinab Abbasimazar -> https://github.com/zeinababbasi"
