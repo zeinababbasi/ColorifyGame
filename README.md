@@ -1,4 +1,4 @@
-# Python
+# Python-Games
 I put my python game projects here
 
 # Usage
