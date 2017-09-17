@@ -1,2 +1,3 @@
-# ColorifyGame
-There is a colored nxn square. The robot tries to fill all nxn squares with same color using a greedy algorithm.
+In this game, an nxn square, filled with multiple colors is our initial playground.
+
+The game automatically tries to fill up all the cells with a single color using a greedy algorithm.
